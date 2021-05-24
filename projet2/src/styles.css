@@ -1,0 +1,33 @@
+html,
+body {
+  color: #222;
+}
+
+a {
+  color: #222;
+  text-decoration: none;
+}
+
+button {
+  padding: 5px 10px;
+  background-color: rgb(196, 196, 196);
+  border: 0;
+  border-radius: 3px;
+}
+
+/* debug */
+.d0 {
+  border: 1px solid teal;
+}
+
+.d1 {
+  border: 1px solid purple;
+}
+
+.d2 {
+  border: 1px solid green;
+}
+
+.d3 {
+  border: 1px solid orange;
+}
